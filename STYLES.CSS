@@ -46,3 +46,29 @@ height: 50px;
 background-color: lightcoral;
 border: 1px solid red;
 }
+
+.fixed-box{
+
+position: fixed;
+bottom: 10px;
+right: 10px;
+width: 150px;
+height: 75px;
+background-color: lightblue;
+border: 1px solid blue;
+text-align: center;
+line-height: 75px;
+
+}
+
+.sticky-box{
+
+position: sticky;
+top: 0;
+background-color: lightyellow;
+padding: 10px;
+border: 1px solid orange;
+z-index: 10;
+
+
+}
