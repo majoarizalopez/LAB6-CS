@@ -270,3 +270,43 @@ text-align: center;
 
 }
 
+.flex-container7{
+
+display: flex;
+width: 80%;
+height: 100px;
+background-color: lightsalmon;
+border: solid red;
+
+}
+
+.child-8{
+
+background-color: lightgreen;
+margin: 10px;
+padding: 20px;
+text-align: center;
+flex-grow: 1;
+
+}
+
+.child-9{
+
+    background-color: lightgreen;
+margin: 10px;
+padding: 20px;
+text-align: center;
+flex-grow: 2;
+
+
+}
+
+.child-10{
+
+    background-color: lightgreen;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    flex-grow: 3;
+
+}
