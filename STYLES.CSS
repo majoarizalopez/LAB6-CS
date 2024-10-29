@@ -185,3 +185,27 @@ text-align: center;
 line-height: 60px;
 
 }
+
+.flex-container4{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+height: 300px;
+background-color: lightgray;
+padding: 10px;
+
+}
+
+.child-4{
+
+width: 100px;
+height: 100px;
+background-color: lightpink;
+border: solid rgb(255, 0, 85);
+text-align: center;
+line-height: 100px;
+margin: 10px;
+
+}
