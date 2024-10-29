@@ -246,3 +246,27 @@ height: 100px;
 
 }
 
+.flex-container6{
+
+display: flex;
+flex-wrap: wrap;
+align-content: space-evenly;
+width: 80%;
+height: 400px;
+background-color: lightskyblue;
+border: 2px solid blue;
+
+
+}
+
+.item{
+
+background-color: lightgreen;
+margin: 10px;
+padding: 20px;
+flex: 1 1 30%;
+box-sizing: border-box;
+text-align: center;
+
+}
+
